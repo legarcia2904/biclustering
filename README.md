@@ -8,9 +8,12 @@ Biblioteca de apoyo utilizada	LEDA v6.3
 Instrucciones de compilación utilizando qmake (solamente para incluir la dependencia a la biblioteca LEDA):
 
 $ qmake -project
+
 $ qmake Biclustering.pro
+
 $ make
 
 Ejecutar el programa:
+
 $ ./Biclustering
 
